@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "outDir": "dist",
+    "strict": true,
+    "lib": ["dom","esnext"]
+  },
+  "include": ["./src/**/*.ts"]
+}
